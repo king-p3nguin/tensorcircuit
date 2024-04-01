@@ -1,0 +1,51 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+tensorflow = "<2.16"
+tensornetwork-ng = "*"
+graphviz = "*"
+jaxlib = "==0.4.6"
+networkx = "*"
+optax = "*"
+mypy = "==1.5.1"
+pytest = "==6.2.4"
+pytest-cov = "*"
+pytest-benchmark = "*"
+pytest-xdist = "*"
+black = {extras = ["jupyter"], version = "*"}
+sphinx = ">=4.0"
+pytest-lazy-fixture = "*"
+pylint = "==2.17.5"
+furo = "*"
+sphinx-copybutton = "*"
+nbsphinx = "*"
+myst-parser = "*"
+sphinx-design = "*"
+qiskit = "<1.0"
+qiskit-aer = "<1.0"
+mitiq = "*"
+cirq = "*"
+torch = "*"
+mthree = "==1.1.0"
+openfermion = "*"
+types-urllib3 = "*"
+types-typed-ast = "*"
+types-toml = "*"
+types-setuptools = "*"
+types-requests = "*"
+types-pytz = "*"
+types-protobuf = "*"
+types-docutils = "*"
+jax = {extras = ["cuda12_pip"], version = "*"}
+ipykernel = "*"
+appnope = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
