@@ -41,9 +41,11 @@ types-requests = "*"
 types-pytz = "*"
 types-protobuf = "*"
 types-docutils = "*"
-jax = {extras = ["cuda12_pip"], version = "*"}
 ipykernel = "*"
 appnope = "*"
+pylatexenc = "*"
+qiskit-nature = "*"
+jax = {extras = ["cpu"], version = "*"}
 
 [dev-packages]
 
