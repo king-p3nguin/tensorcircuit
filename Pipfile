@@ -9,7 +9,7 @@ scipy = "*"
 tensorflow = "<2.16"
 tensornetwork-ng = "*"
 graphviz = "*"
-jaxlib = "==0.4.6"
+jaxlib = "*"
 networkx = "*"
 optax = "*"
 mypy = "==1.5.1"
@@ -45,7 +45,8 @@ ipykernel = "*"
 appnope = "*"
 pylatexenc = "*"
 qiskit-nature = "*"
-jax = {extras = ["cpu"], version = "*"}
+jax = "*"
+chex = "*"
 
 [dev-packages]
 
