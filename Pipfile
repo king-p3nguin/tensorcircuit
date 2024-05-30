@@ -47,6 +47,7 @@ pylatexenc = "*"
 qiskit-nature = "*"
 jax = "*"
 chex = "*"
+cotengra = "*"
 
 [dev-packages]
 
