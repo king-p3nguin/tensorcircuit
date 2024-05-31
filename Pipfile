@@ -51,6 +51,7 @@ cotengra = "*"
 quimb = "*"
 kahypar = "*"
 optuna = "*"
+igraph = "*"
 
 [dev-packages]
 
