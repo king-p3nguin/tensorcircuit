@@ -49,6 +49,7 @@ jax = "*"
 chex = "*"
 cotengra = "*"
 quimb = "*"
+kahypar = "*"
 
 [dev-packages]
 
