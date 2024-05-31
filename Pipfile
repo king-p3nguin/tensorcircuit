@@ -50,6 +50,7 @@ chex = "*"
 cotengra = "*"
 quimb = "*"
 kahypar = "*"
+optuna = "*"
 
 [dev-packages]
 
