@@ -52,6 +52,7 @@ quimb = "*"
 kahypar = "*"
 optuna = "*"
 igraph = "*"
+nevergrad = "*"
 
 [dev-packages]
 
