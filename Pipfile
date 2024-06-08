@@ -53,6 +53,7 @@ kahypar = "*"
 optuna = "*"
 igraph = "*"
 nevergrad = "*"
+stim = "*"
 
 [dev-packages]
 
