@@ -54,6 +54,7 @@ optuna = "*"
 igraph = "*"
 nevergrad = "*"
 stim = "*"
+pennylane = "*"
 
 [dev-packages]
 
